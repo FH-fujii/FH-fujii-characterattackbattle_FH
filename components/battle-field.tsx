@@ -1650,6 +1650,5 @@ export function BattleField({
           </div>
         )}
       </div>
-    </div>
   )
 }
