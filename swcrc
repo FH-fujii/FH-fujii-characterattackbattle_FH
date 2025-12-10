@@ -1,2 +1,0 @@
-{ “jsc”: { “parser”: { “syntax”: “typescript”, “tsx”: true } },
-“minify”: false }
