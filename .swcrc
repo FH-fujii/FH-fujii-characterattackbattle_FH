@@ -1,2 +1,9 @@
-{ “jsc”: { “parser”: { “syntax”: “typescript”, “tsx”: true } },
-“minify”: false }
+{
+  "jsc": {
+    "parser": {
+      "syntax": "typescript",
+      "tsx": true
+    }
+  },
+  "minify": false
+}
